@@ -12,8 +12,14 @@ https://node-17.zeno.fm/mkb475qvm8quv?rj-ttl=5&rj-tok=AAABgP1G3aQARmJj_r6pez8GVA
 https://ic.streann.com/boom
 
 #EXTINF:-1,Radio Panama 94.5
-https://24983.live.streamtheworld.com/RADIO_PANAMAFMAAC.aac?csegid=12000&gdpr=1&gdpr_consent=CPa3TUAPa3TUAAHABBENCUCsAP_AAAAAAAAAI2Nf_X__b3_j-_5___t0eY1f9_7__-0zjhfdt-8N3f_X_L8X_2M7vF36pq4KuR4Eu3LBIQdlHOHcTUmw6okVrzPsbk2cr7NKJ7PEmnMbe2dYGH9_n93T-ZKY7_____77__-_______f__-_f___5_3__-_f_V_997fn9_____9_P___9v__9__________3AAAASSgAwABBGwNABgACCNgqADAAEEbCkAGAAII2DoAMAAQRsIQAYAAgjYEgAwABBGwRABgACCNgyADAAEEbA.f_gAAAAAAAAA&dist=radiopanama_pa-web-live_streaming_play&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=6fc56a05-8e9e-4e4b-c94a-5f4cb7f224a2
+https://24063.live.streamtheworld.com/RADIO_PANAMAFMAAC.aac?csegid=12000&gdpr=1&gdpr_consent=CPZhm8APZhm8AAHABBENCQCsAP_AAH_AAAAAIxNf_X__b3_j-_5___t0eY1f9_7__-0zjhfdt-8N3f_X_L8X_2M7vF36pq4KuR4Eu3LBIQdlHOHcTUmw6okVrzPsbk2cr7NKJ7PEmnMbe2dYGH9_n93T-ZKY7_____77__-_______f__-_f___5_3__-_f_V_997bn9_____9_P___9v__9_________wQSAJMNS8gC7EscGTaMIoUQIwrCQ6AUAFFAMLRFYQMrgp2VwEeoIWACAVARgRAgxBRgwCAAQCAJCIgJADwQCIAiAQAAgAUAIQAEbAILACwMAgAFANCxAigCECQgyICI5TAgIkSignsrAEoO9jTCEIssAKBR_QAICJQAgWBkJCwYwwBICWASSgAwABBGINABgACCMQqADAAEEYikAGAAIIxDoAMAAQRiIQAYAAgjEEgAwABBGIRABgACCMQyADAAEEYg.f_gAD_gAAAAA&dist=radiopanama_pa-web-live_streaming_play&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=868f60ee-352b-4985-cd9b-e7dc427101a5
 
-#EXTINF:-1,RPC radio
+
+#EXTINF:-1,RPC RADIO
 https://us-b5-p-e-kj2-audio.cdn.mdstrm.com/live-audio-aw/5eebd56d74f62407a5cd6b62/playlist.m3u8?listeningSessionID=6255c50a73a29d4b_3731916_JIKwEnsD__0000004F5Pp&downloadSessionID=0&aid=5d409041e10de808a34fce18&pid=PWgOh77Gp9PDnJEwdmWzYwBIupXtEhsO&sid=7iKsZPLY9HFWgnrcehVcHc3o8yGS4zoU&uid=QwYgURwRXN5QF06BwZI0lX6SjPRyJmAK&es=us-b5-p-e-kj2-audio.cdn.mdstrm.com&ote=1653606370853&ot=8PFBHm51q-pj9L-qPgbPCw&proto=https&pz=us&cP=128000&awCollectionId=5d409041e10de808a34fce18&liveId=5eebd56d74f62407a5cd6b62&referer=https%3A%2F%2Fradios.com.pa%2F
 
+#EXTINF:-1,Sertv Radio 101.7
+https://pcbrothers.net/8008/stream
+
+#EXTINF:-1,Crisol FM 102.5
+https://pcbrothers.net/8002/stream
